@@ -68,4 +68,4 @@ function uploadBudget() {
       };
   };
 
-  window.addEventListener('online', uploadPizza);
+  window.addEventListener('online', uploadBudget);
